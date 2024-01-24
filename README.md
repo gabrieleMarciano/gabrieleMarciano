@@ -27,6 +27,8 @@
 
 </div>
 
+
+
 #### Workstation Tools:
 <div> 
   <img  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -37,8 +39,11 @@
 
 </div>
 
-#### Contacts:
+## Contacts:
 <div>
   <a href=https://www.linkedin.com/in/gabriele-freire-614590203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href = "freiregabs4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+    
+</div> <br>
+    
+<img width=100% src="https://capsule-render.vercel.app/api?&color=ff0084&height=120&section=footer"/>
