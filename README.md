@@ -2,8 +2,10 @@
 - 🔭 Currently working with networking infrastructure and automation workflows;
 - 🌱 Open to opportunities in backend development, API integration, and automation.
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieleMarciano&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=gabrieleMarciano&theme=radical)
+<div align="center">
+  <img height="180" src="https://github-readme-stats.zcy.dev/api?username=gabrieleMarciano&theme=radical" />
+  <img height="180" src="https://github-readme-stats.zcy.dev/api/top-langs?username=gabrieleMarciano&layout=compact&theme=radical&size_weight=0.3&count_weight=0.7" />
+</div>
 
 
 
