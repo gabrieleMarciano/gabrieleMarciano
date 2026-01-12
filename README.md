@@ -3,7 +3,9 @@
 - 🌱 Em busca de oportunidades em backend, APIs e automação.
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieleMarciano&theme=radical)
-![Stats](https://streak-stats.demolab.com/?user=gabrieleMarciano&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=gabrieleMarciano&theme=radical)
+
+
 
 ## Skills 💻
 
