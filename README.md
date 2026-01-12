@@ -2,8 +2,10 @@
 - 🔭 Hoje eu trabalho com Redes;
 - 🌱 Estudo programação com foco em sistemas.
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieleMarciano&theme=radical&cache=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleMarciano&theme=radical&cache=1)
+![Stats](https://streak-stats.demolab.com/?user=gabrieleMarciano&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieleMarciano&theme=radical)
+
 
 ## Skills 💻
 
