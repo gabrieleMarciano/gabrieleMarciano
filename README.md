@@ -2,9 +2,23 @@
 - 🔭 Hoje eu trabalho com Redes;
 - 🌱 Estudo programação com foco em sistemas.
   
-![Stats](https://streak-stats.demolab.com/?user=gabrieleMarciano&theme=radical)
+<div style="display: flex; justify-content: center; gap: 20px;">
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieleMarciano&theme=radical)
+  <!-- STREAK CARD -->
+  <img 
+       src="https://streak-stats.demolab.com?user=gabrieleMarciano&theme=radical&border_radius=10" 
+       alt="GitHub Streak"
+       height="200"
+  />
+
+  <!-- MOST USED LANGUAGES CARD -->
+  <img 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrieleMarciano&theme=radical" 
+       alt="Most Used Languages"
+       height="200"
+  />
+
+</div>
 
 
 ## Skills 💻
