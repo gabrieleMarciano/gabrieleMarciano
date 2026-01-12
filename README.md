@@ -1,9 +1,9 @@
 ## Oiii eu sou a Gabriele Freire, estou mergulhando no mundo fascinante da programação e administração de redes ✨
 - 🔭 Hoje eu trabalho com Redes;
 - 🌱 Estudo programação com foco em sistemas.
-  
-![Stats](https://streak-stats.demolab.com/?user=gabrieleMarciano&theme=radical)
+
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieleMarciano&theme=radical)
+![Stats](https://streak-stats.demolab.com/?user=gabrieleMarciano&theme=radical)
 
 ## Skills 💻
 
