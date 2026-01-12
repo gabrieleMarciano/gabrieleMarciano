@@ -2,11 +2,8 @@
 - 🔭 Hoje eu trabalho com Redes;
 - 🌱 Estudo programação com foco em sistemas.
   
-<!-- STATS -->
-![Stats](https://raw.githubusercontent.com/gabrieleMarciano/gabrieleMarciano/master/profile-summary-card-output/monokai/1-repos-per-language.svg)
-
-<!-- TOP LANGS -->
-![Top Langs](https://raw.githubusercontent.com/gabrieleMarciano/gabrieleMarciano/master/profile-summary-card-output/monokai/2-most-commit-language.svg)
+![Stats](https://streak-stats.demolab.com/?user=gabrieleMarciano&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieleMarciano&theme=radical)
 
 ## Skills 💻
 
