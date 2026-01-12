@@ -1,6 +1,6 @@
-## Oiii eu sou a Gabriele Freire, Backend developer focada em APIs, automação e RPA, com experiência em redes e integração de sistemas ✨
-- 🔭 Hoje eu trabalho com Redes e automação de tarefas repetitivas;
-- 🌱 Em busca de oportunidades em backend, APIs e automação.
+## Hi! I'm Gabriele Freire, a backend developer focused on APIs, automation, and RPA, with experience in networking and system integration. ✨
+- 🔭 Currently working with networking infrastructure and automation workflows;
+- 🌱 Open to opportunities in backend development, API integration, and automation.
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrieleMarciano&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=gabrieleMarciano&theme=radical)
